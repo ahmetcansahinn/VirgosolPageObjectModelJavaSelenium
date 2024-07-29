@@ -1,0 +1,91 @@
+2024-07-29 16:36:35,952 INFO  [Log] before method 
+2024-07-29 16:36:38,495 INFO  [Log] statik bekleme kullandınız.....!!!! 
+2024-07-29 16:36:43,626 ERROR [Log] loginSuccessTest()FAILED with cause :expected: <true> but was: <false> 
+2024-07-29 16:56:10,828 INFO  [Log] before method 
+2024-07-29 16:56:14,781 INFO  [Log] loginFailedWithoutUserName()PASSED 
+2024-07-29 16:59:06,115 INFO  [Log] before method 
+2024-07-29 16:59:09,801 INFO  [Log] task()PASSED 
+2024-07-29 17:03:38,470 INFO  [Log] before method 
+2024-07-29 17:03:43,687 INFO  [Log] task()PASSED 
+2024-07-29 17:08:25,914 INFO  [Log] before method 
+2024-07-29 17:08:34,027 INFO  [Log] task()PASSED 
+2024-07-29 17:12:34,881 ERROR [Log] task()FAILED with cause :Compound class names not permitted
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.12.0', revision: '249f2a7d1b*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.5', java.version: '17.0.9'
+Driver info: driver.version: unknown 
+2024-07-29 17:13:55,029 ERROR [Log] task()FAILED with cause :Compound class names not permitted
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.12.0', revision: '249f2a7d1b*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.5', java.version: '17.0.9'
+Driver info: driver.version: unknown 
+2024-07-29 17:14:22,278 ERROR [Log] task()FAILED with cause :Compound class names not permitted
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.12.0', revision: '249f2a7d1b*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.5', java.version: '17.0.9'
+Driver info: driver.version: unknown 
+2024-07-29 17:14:36,448 ERROR [Log] task()FAILED with cause :Compound class names not permitted
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.12.0', revision: '249f2a7d1b*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.5', java.version: '17.0.9'
+Driver info: driver.version: unknown 
+2024-07-29 17:18:37,529 INFO  [Log] before method 
+2024-07-29 17:18:56,105 ERROR [Log] task()FAILED with cause :no such element: Unable to locate element: {"method":"css selector","selector":"#sw\-gtc_CONTENT"}
+  (Session info: chrome=126.0.6478.185)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.0', revision: '249f2a7d1b*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.5', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3d4fc58e897775d566062740dda06559, findElement {using=id, value=sw-gtc_CONTENT}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.185, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: /var/folders/rk/7z9685y92mv...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60758}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:60758/devtoo..., se:cdpVersion: 126.0.6478.185, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3d4fc58e897775d566062740dda06559 
+2024-07-29 17:23:16,616 INFO  [Log] before method 
+2024-07-29 17:23:27,242 INFO  [Log] task()PASSED 
+2024-07-29 17:25:07,699 INFO  [Log] before method 
+2024-07-29 17:25:35,337 ERROR [Log] task()FAILED with cause :no such element: Unable to locate element: {"method":"css selector","selector":"*[name='submit.delete.b32d30c6-9039-4ac9-8f0b-cb3a5846eff0']"}
+  (Session info: chrome=126.0.6478.185)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.0', revision: '249f2a7d1b*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.5', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4f8738c4a2fb5d5ce7c233af2f851377, findElement {using=name, value=submit.delete.b32d30c6-9039-4ac9-8f0b-cb3a5846eff0}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.185, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: /var/folders/rk/7z9685y92mv...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62442}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:62442/devtoo..., se:cdpVersion: 126.0.6478.185, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4f8738c4a2fb5d5ce7c233af2f851377 
+2024-07-29 17:27:10,653 INFO  [Log] before method 
+2024-07-29 17:27:29,361 ERROR [Log] task()FAILED with cause :no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='submit.delete.b32d30c6-9039-4ac9-8f0b-cb3a5846eff0']"}
+  (Session info: chrome=126.0.6478.185)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.0', revision: '249f2a7d1b*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.5', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [754af7c25898124d5499eb5d83e41a27, findElement {using=xpath, value=//input[@name='submit.delete.b32d30c6-9039-4ac9-8f0b-cb3a5846eff0']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.185, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: /var/folders/rk/7z9685y92mv...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63009}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:63009/devtoo..., se:cdpVersion: 126.0.6478.185, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 754af7c25898124d5499eb5d83e41a27 
+2024-07-29 17:31:04,255 INFO  [Log] before method 
+2024-07-29 17:31:15,860 ERROR [Log] task()FAILED with cause :no such element: Unable to locate element: {"method":"css selector","selector":"#sp\-cc\-accept"}
+  (Session info: chrome=126.0.6478.185)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.0', revision: '249f2a7d1b*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.5', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9249e79e8ebd8dcfb80ec71979946c98, findElement {using=id, value=sp-cc-accept}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.185, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: /var/folders/rk/7z9685y92mv...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64023}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:64023/devtoo..., se:cdpVersion: 126.0.6478.185, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9249e79e8ebd8dcfb80ec71979946c98 
+2024-07-29 17:31:40,125 INFO  [Log] before method 
+2024-07-29 17:32:03,614 ERROR [Log] task()FAILED with cause :no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='submit.delete.b32d30c6-9039-4ac9-8f0b-cb3a5846eff0']"}
+  (Session info: chrome=126.0.6478.185)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.0', revision: '249f2a7d1b*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.5', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f3c6c7cea603ed73cb00becdcd3e9231, findElement {using=xpath, value=//input[@name='submit.delete.b32d30c6-9039-4ac9-8f0b-cb3a5846eff0']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.185, chrome: {chromedriverVersion: 126.0.6478.182 (5b5d8292ddf..., userDataDir: /var/folders/rk/7z9685y92mv...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64147}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:64147/devtoo..., se:cdpVersion: 126.0.6478.185, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f3c6c7cea603ed73cb00becdcd3e9231 
+2024-07-29 17:34:45,619 INFO  [Log] before method 
+2024-07-29 17:34:57,621 INFO  [Log] task()PASSED 
+2024-07-29 17:39:34,154 INFO  [Log] before method 
+2024-07-29 17:39:44,723 ERROR [Log] task()FAILED with cause :expected: <Amazon sepetiniz boş. > but was: <Amazon sepetiniz boş.> 
+2024-07-29 17:40:25,144 INFO  [Log] before method 
+2024-07-29 17:40:37,027 INFO  [Log] task()PASSED 
+2024-07-29 17:41:54,164 INFO  [Log] before method 
+2024-07-29 17:42:04,517 INFO  [Log] task()PASSED 
